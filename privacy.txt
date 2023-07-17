@@ -1,216 +1,85 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2706
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 ArialMT;\f1\froman\fcharset0 Times-Roman;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
-{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\deftab720
-\pard\pardeftab720\partightenfactor0
+JUST GLOBAL MARKETS LTD. PRIVACY POLICY
+1. INTRODUCTION
+This Privacy Policy (hereinafter referred to as the “Policy”) describes the main aspects of how Just Global Markets Ltd. having its address at Office 10, Floor 2, Vairam Building, Providence Industrial Estate, Mahe, Seychelles, a company regulated by the Seychelles Financial Services Authority (“FSA”) under a Securities Dealer Licence number SD088 (hereinafter referred to as the “Company”) collects, uses and manages the personal information received from Clients, in connection with the provision of services.
 
-\f0\fs29\fsmilli14667 \cf0 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 JUST GLOBAL MARKETS LTD. PRIVACY POLICY
-\f1\fs24 \
+One of the main priorities of the Company is the full security of Clients information. The Company does not allow this information to become open to the general public and to be used by a third party. The Company does not provide, sell, disclose, or give for temporary use Client's information and account details to third parties. The company values its reputation and respects the Company's Clients.
 
-\f0\fs29\fsmilli14667 1. INTRODUCTION
-\f1\fs24 \
+2. GATHERING THE INFORMATION
+By opening an account the Client agrees to and accepts all of the provisions set forth in this Policy.
 
-\f0\fs29\fsmilli14667 This Privacy Policy (hereinafter referred to as the \'93Policy\'94) describes the main aspects of how Just Global Markets Ltd. having its address at Office 10, Floor 2, Vairam Building, Providence Industrial Estate, Mahe, Seychelles, a company regulated by the Seychelles Financial Services Authority (\'93FSA\'94) under a Securities Dealer Licence number SD088 (hereinafter referred to as the \'93Company\'94) collects, uses and manages the personal information received from Clients, in connection with the provision of services.
-\f1\fs24 \
-\
+In order to open an account with the Company, the Client must first complete and submit an application form to the Company by providing the required information, which includes: full name, date of birth, country of residence, complete address, including phone number and city code etc. This information is given by the Client during the registration process through the Back Office. Gathering information is an obligatory condition for the beginning of a business relationship with the Company. The information that Clients provide to the Company may also be used by the Company to inform Clients regarding the Company's services.
 
-\f0\fs29\fsmilli14667 One of the main priorities of the Company is the full security of Clients information. The Company does not allow this information to become open to the general public and to be used by a third party. The Company does not provide, sell, disclose, or give for temporary use Client's information and account details to third parties. The company values its reputation and respects the Company's Clients.
-\f1\fs24 \
-\
+3. PERSONAL DATA THAT IS COLLECTED BY THE COMPANY
+Personal data, provided by Clients includes:
+● information provided by the Client during the Back Office registration (full name, date of birth, country of residence, complete address, phone number and city code);
+● documents that allows the Company verify the Client’s Back Office, namely government-issued identification documents (passport, national ID, driver's licence, or similar document) and documents that confirm the place of residence (utility bill (gas, water, electricity or other), bank statement or similar document) as mentioned in the Company’s AML Policy;
+● documents that confirm money transfer (in case of bank transfer, based on the Company's decision);
+● and any other information customarily used to identify the Client, if requested by the Company.
 
-\f0\fs29\fsmilli14667 2. GATHERING THE INFORMATION
-\f1\fs24 \
+If you decide not to provide some data from this list, we may not be able to provide you with some requested services.
 
-\f0\fs29\fsmilli14667 By opening an account the Client agrees to and accepts all of the provisions set forth in this Policy.
-\f1\fs24 \
-\
+4. THE USE OF INFORMATION
+Information given by the Client is used solely to provide quality services. For example, Client's contact information may be used in case the Company needs to contact the Client urgently or to inform the Client about the Company's updates and news. By providing information about himself, the Client verifies personal Back Office thus participating in bringing the AML policy to life.
+Client's data is used to confirm the Client’s identity, to open trading and/or partner accounts, to quickly inform about new services of the Company, to maintain the database of customers' accounts, and to analyze statistical data for providing services and products of higher quality.
 
-\f0\fs29\fsmilli14667 In order to open an account with the Company, the Client must first complete and submit an application form to the Company by providing the required information, which includes: full name, date of birth, country of residence, complete address, including phone number and city code etc. This information is given by the Client during the registration process through the Back Office. Gathering information is an obligatory condition for the beginning of a business relationship with the Company. The information that Clients provide to the Company may also be used by the Company to inform Clients regarding the Company's services.
-\f1\fs24 \
-\
+Personal data given by the Client can also be used for the following purposes:
+● legal compliance;
+● performance of a contractual obligations;
+● marketing purposes.
 
-\f0\fs29\fsmilli14667 3. PERSONAL DATA THAT IS COLLECTED BY THE COMPANY
-\f1\fs24 \
+5. INFORMATION PROTECTION
+The Company uses advanced technologies to provide the security of personal data. The Company has put in place appropriate security measures to prevent accidental loss, use, unauthorized access, modification or disclosure of personal data. The Company employees maintain highest information security standards while processing personal information within the Company.
 
-\f0\fs29\fsmilli14667 Personal data, provided by Clients includes:
-\f1\fs24 \
+The Company limits access to your personal data to those employees who require such access and only specific categories of employees have full access to personal data of Clients (e.g. verification or account managers).
 
-\f0\fs29\fsmilli14667 \uc0\u9679  information provided by the Client during the Back Office registration (full name, date of birth, country of residence, complete address, phone number and city code);
-\f1\fs24 \
+Any information and access is encrypted using SSL technology. Where the Company has given to the Client (or where the Client has chosen) a password which enables the Client to access certain parts of the Companies website, the Client is responsible for keeping this password confidential. The Company will not ask the Client to share their password with anyone, including Company’s employees.
 
-\f0\fs29\fsmilli14667 \uc0\u9679  documents that allows the Company verify the Client\'92s Back Office, namely government-issued identification documents (passport, national ID, driver's licence, or similar document) and documents that confirm the place of residence (utility bill (gas, water, electricity or other), bank statement or similar document) as mentioned in the Company\'92s AML Policy;
-\f1\fs24 \
+6. RETENTION PERIOD
+The retention period for personal data storage is seven (7) years. The Company has the right to delete all personal information, which was received from the Client, when it considers that personal information is no longer necessary for the purpose for which it was collected.
 
-\f0\fs29\fsmilli14667 \uc0\u9679  documents that confirm money transfer (in case of bank transfer, based on the Company's decision);
-\f1\fs24 \
+The Company may keep personal data for longer than seven (7) years for legal, regulatory, or technical reasons.
 
-\f0\fs29\fsmilli14667 \uc0\u9679  and any other information customarily used to identify the Client, if requested by the Company.
-\f1\fs24 \
-\
+7. DISCLOSURE OF INFORMATION TO THIRD PARTIES
+The Company will not rent or sell information about the Client to third parties outside the Company without the consent of the Client.
+The Company may provide personal information of the Client to third parties only under special circumstances. Such circumstances may be:
+● protection of personal rights and property in the court;
+● implementing the court orders;
+● providing information to law enforcement authorities at official request;
+● transferring of information to business partners (trustees), for example to improve the quality of service.
+In order to give the Clients comprehensive, state-of-the-art high-quality service, the Company may exchange personal data with its business partners. At the request of the Client, the Company can provide information about the services that the partners provide for it.
 
-\f0\fs29\fsmilli14667 If you decide not to provide some data from this list, we may not be able to provide you with some requested services.
-\f1\fs24 \
-\
+You agree that we might disclose your personal information to third parties in the event that we sell or buy any business or assets, in which case personal data about our customers will be one of the transferred assets.
+In such cases you will be notified accordingly.
 
-\f0\fs29\fsmilli14667 4. THE USE OF INFORMATION
-\f1\fs24 \
+8. CHANGES IN PERSONAL INFORMATION
+Because the Company assumes that all the information is full and relevant, the Company asks the Client to notify the Company of any changes in the personal data via the appropriate forms of the Back Office.
 
-\f0\fs29\fsmilli14667 Information given by the Client is used solely to provide quality services. For example, Client's contact information may be used in case the Company needs to contact the Client urgently or to inform the Client about the Company's updates and news. By providing information about himself, the Client verifies personal Back Office thus participating in bringing the AML policy to life.
-\f1\fs24 \
+9. RIGHTS OF THE CLIENT
+Every Client has the next rights regarding the processes of collecting, using, and managing his/her personal information:
+a) the right to be informed and the right to access;
+The Company describes the procedure of processing of personal data in this Policy. We have tried to make this Policy easy and understandable for our Clients, but if you have any inquiries regarding this Policy or your rights, or you need additional information, you could email us at support@justmarkets.com.
 
-\f0\fs29\fsmilli14667 Client's data is used to confirm the Client\'92s identity, to open trading and/or partner accounts, to quickly inform about new services of the Company, to maintain the database of customers' accounts, and to analyze statistical data for providing services and products of higher quality.
-\f1\fs24 \
-\
+b) the right to rectification;
+If you know we have the wrong data about you, or that your data is incomplete you are entitled to have it rectified. You may inform us at any time that your personal details have changed by sending an email to us.
 
-\f0\fs29\fsmilli14667 Personal data given by the Client can also be used for the following purposes:
-\f1\fs24 \
+c) the right to restrict processing;
+You can ask us to restrict the processing of your personal data in certain circumstances such as if you contest the accuracy of that personal information or object to us processing it.
 
-\f0\fs29\fsmilli14667 \uc0\u9679  legal compliance;
-\f1\fs24 \
+d) the right to data portability;
+You have the right to obtain personal information that you have provided us with and to re-use it elsewhere
+or ask us to transfer this to a third party of your choice.
 
-\f0\fs29\fsmilli14667 \uc0\u9679  performance of a contractual obligations;
-\f1\fs24 \
+e) the right to object;
+You can ask us to stop processing your personal information in certain circumstances. Also, if you receive
+emails from us, you can always opt-out at the bottom of the email, or by contacting us.
 
-\f0\fs29\fsmilli14667 \uc0\u9679  marketing purposes.
-\f1\fs24 \
-\
+f) the right to erasure;
+You can ask us to delete or remove your personal information in certain circumstances such as if we no longer need it or you withdraw your consent provided that we have no legal obligation to retain that data. Such requests will be subject to any retention limits, which we are required to comply with in accordance with applicable laws and regulations.
 
-\f0\fs29\fsmilli14667 5. INFORMATION PROTECTION
-\f1\fs24 \
+g) the right for refusal.
+The Client has the right to refuse to provide the personal information required by the regulations if it goes against the Client's beliefs. However, in this case, the Company would not be able to provide the Client with its services.
 
-\f0\fs29\fsmilli14667 The Company uses advanced technologies to provide the security of personal data. The Company has put in place appropriate security measures to prevent accidental loss, use, unauthorized access, modification or disclosure of personal data. The Company employees maintain highest information security standards while processing personal information within the Company.
-\f1\fs24 \
-\
+If you do not want us to use your personal data, you must inform the Company by sending an email to support@justmarkets.com. The Company will not be able to continue to provide services and information requested by the Client if the Client makes such a decision.
 
-\f0\fs29\fsmilli14667 The Company limits access to your personal data to those employees who require such access and only specific categories of employees have full access to personal data of Clients (e.g. verification or account managers).
-\f1\fs24 \
-\
-
-\f0\fs29\fsmilli14667 Any information and access is encrypted using SSL technology. Where the Company has given to the Client (or where the Client has chosen) a password which enables the Client to access certain parts of the Companies website, the Client is responsible for keeping this password confidential. The Company will not ask the Client to share their password with anyone, including Company\'92s employees.
-\f1\fs24 \
-\
-
-\f0\fs29\fsmilli14667 6. RETENTION PERIOD
-\f1\fs24 \
-
-\f0\fs29\fsmilli14667 The retention period for personal data storage is seven (7) years. The Company has the right to delete all personal information, which was received from the Client, when it considers that personal information is no longer necessary for the purpose for which it was collected.
-\f1\fs24 \
-\
-
-\f0\fs29\fsmilli14667 The Company may keep personal data for longer than seven (7) years for legal, regulatory, or technical reasons.
-\f1\fs24 \
-\
-
-\f0\fs29\fsmilli14667 7. DISCLOSURE OF INFORMATION TO THIRD PARTIES
-\f1\fs24 \
-
-\f0\fs29\fsmilli14667 The Company will not rent or sell information about the Client to third parties outside the Company without the consent of the Client.
-\f1\fs24 \
-
-\f0\fs29\fsmilli14667 The Company may provide personal information of the Client to third parties only under special circumstances. Such circumstances may be:
-\f1\fs24 \
-
-\f0\fs29\fsmilli14667 \uc0\u9679  protection of personal rights and property in the court;
-\f1\fs24 \
-
-\f0\fs29\fsmilli14667 \uc0\u9679  implementing the court orders;
-\f1\fs24 \
-
-\f0\fs29\fsmilli14667 \uc0\u9679  providing information to law enforcement authorities at official request;
-\f1\fs24 \
-
-\f0\fs29\fsmilli14667 \uc0\u9679  transferring of information to business partners (trustees), for example to improve the quality of service.
-\f1\fs24 \
-
-\f0\fs29\fsmilli14667 In order to give the Clients comprehensive, state-of-the-art high-quality service, the Company may exchange personal data with its business partners. At the request of the Client, the Company can provide information about the services that the partners provide for it.
-\f1\fs24 \
-\
-
-\f0\fs29\fsmilli14667 You agree that we might disclose your personal information to third parties in the event that we sell or buy any business or assets, in which case personal data about our customers will be one of the transferred assets.
-\f1\fs24 \
-
-\f0\fs29\fsmilli14667 In such cases you will be notified accordingly.
-\f1\fs24 \
-\
-
-\f0\fs29\fsmilli14667 8. CHANGES IN PERSONAL INFORMATION
-\f1\fs24 \
-
-\f0\fs29\fsmilli14667 Because the Company assumes that all the information is full and relevant, the Company asks the Client to notify the Company of any changes in the personal data via the appropriate forms of the Back Office.
-\f1\fs24 \
-\
-
-\f0\fs29\fsmilli14667 9. RIGHTS OF THE CLIENT
-\f1\fs24 \
-
-\f0\fs29\fsmilli14667 Every Client has the next rights regarding the processes of collecting, using, and managing his/her personal information:
-\f1\fs24 \
-
-\f0\fs29\fsmilli14667 a) the right to be informed and the right to access;
-\f1\fs24 \
-
-\f0\fs29\fsmilli14667 The Company describes the procedure of processing of personal data in this Policy. We have tried to make this Policy easy and understandable for our Clients, but if you have any inquiries regarding this Policy or your rights, or you need additional information, you could email us at support@justmarkets.com.
-\f1\fs24 \
-\
-
-\f0\fs29\fsmilli14667 b) the right to rectification;
-\f1\fs24 \
-
-\f0\fs29\fsmilli14667 If you know we have the wrong data about you, or that your data is incomplete you are entitled to have it rectified. You may inform us at any time that your personal details have changed by sending an email to us.
-\f1\fs24 \
-\
-
-\f0\fs29\fsmilli14667 c) the right to restrict processing;
-\f1\fs24 \
-
-\f0\fs29\fsmilli14667 You can ask us to restrict the processing of your personal data in certain circumstances such as if you contest the accuracy of that personal information or object to us processing it.
-\f1\fs24 \
-\
-
-\f0\fs29\fsmilli14667 d) the right to data portability;
-\f1\fs24 \
-
-\f0\fs29\fsmilli14667 You have the right to obtain personal information that you have provided us with and to re-use it elsewhere
-\f1\fs24 \
-
-\f0\fs29\fsmilli14667 or ask us to transfer this to a third party of your choice.
-\f1\fs24 \
-\
-
-\f0\fs29\fsmilli14667 e) the right to object;
-\f1\fs24 \
-
-\f0\fs29\fsmilli14667 You can ask us to stop processing your personal information in certain circumstances. Also, if you receive
-\f1\fs24 \
-
-\f0\fs29\fsmilli14667 emails from us, you can always opt-out at the bottom of the email, or by contacting us.
-\f1\fs24 \
-\
-
-\f0\fs29\fsmilli14667 f) the right to erasure;
-\f1\fs24 \
-
-\f0\fs29\fsmilli14667 You can ask us to delete or remove your personal information in certain circumstances such as if we no longer need it or you withdraw your consent provided that we have no legal obligation to retain that data. Such requests will be subject to any retention limits, which we are required to comply with in accordance with applicable laws and regulations.
-\f1\fs24 \
-\
-
-\f0\fs29\fsmilli14667 g) the right for refusal.
-\f1\fs24 \
-
-\f0\fs29\fsmilli14667 The Client has the right to refuse to provide the personal information required by the regulations if it goes against the Client's beliefs. However, in this case, the Company would not be able to provide the Client with its services.
-\f1\fs24 \
-\
-
-\f0\fs29\fsmilli14667 If you do not want us to use your personal data, you must inform the Company by sending an email to support@justmarkets.com. The Company will not be able to continue to provide services and information requested by the Client if the Client makes such a decision.
-\f1\fs24 \
-\
-
-\f0\fs29\fsmilli14667 10. UPDATES TO THIS POLICY
-\f1\fs24 \
-
-\f0\fs29\fsmilli14667 From time to time the Company has the right to update this Policy to ensure that any new services, requirements, and technologies, as well as any changes to our business operations, are taken into consideration, as well as any changes to legislation. In case of any updates to this Policy, the Company will post those changes to this Policy and inform Clients via the Companies website and/or by sending an email.
-\f1\fs24 \
-}
+10. UPDATES TO THIS POLICY
+From time to time the Company has the right to update this Policy to ensure that any new services, requirements, and technologies, as well as any changes to our business operations, are taken into consideration, as well as any changes to legislation. In case of any updates to this Policy, the Company will post those changes to this Policy and inform Clients via the Companies website and/or by sending an email.
